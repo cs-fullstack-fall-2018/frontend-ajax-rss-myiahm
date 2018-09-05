@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:itms="http://phobos.apple.com/rss/1.0/modules/itms/">
+
+	<channel>
+		<title>iTunes 10 Just Added Albums</title>
+		<link>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewNewReleases?pageType=justAdded&amp;id=1</link>
+    <atom:link href="http://r.mzstatic.com/WebObjects/MZStore.woa/wpa/MRSS/justadded/limit=10/rss.xml" rel="self" type="application/rss+xml" />
+		<description>iTunes Store: 10 Just Added Albums</description>
+		<language>en</language>
+		<copyright>Copyright 2008 Apple Inc.
+
+		</copyright>
+		<lastBuildDate>Wed, 05 Sep 2018 12:46:08 -0700</lastBuildDate>
+		<generator>iTunes Music Store RSS v1.0.0</generator>
+		<webMaster>musicstore@apple.com (iTunes Music Store)</webMaster>
+		<ttl>240</ttl>
+
+		<dc:creator>iTunes Music Store</dc:creator>
+		<dc:date>2018-09-05T12:46:08-07:00</dc:date>
+
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+		<sy:updateBase>2003-09-01T12:00+00:00</sy:updateBase>
+		<image>
+			<url>http://r.mzstatic.com/images/rss/badge.gif</url>
+			<link>http://www.apple.com/itunes/</link>
+			<title>iTunes Music Store</title>
+			<height>31</height>
+			<width>88</width>
+		</image>
+		<item>
+    <title>Consider It Swung - Tom Wopat</title>
+    <link>https://itunes.apple.com/album/consider-it-swung/1144283443?uo=1&amp;v0=9989</link>
+    <description>Consider It Swung by Tom Wopat</description>
+    <pubDate>Wed, 05 Sep 2018 12:46:08 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/consider-it-swung/1144283443?uo=1&v0=9989"><img border="0" src="https://is3-ssl.mzstatic.com/image/thumb/Music41/v4/e2/1d/f5/e21df5f5-00a3-2a95-7440-7b9aedb9c6b9/191018070014.jpg/100x100bb-85.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://r.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/consider-it-swung/1144283443?uo=1&v0=9989">Consider It Swung</a></B><br>
+						<a href="https://itunes.apple.com/artist/tom-wopat/1098520?uo=1&v0=9989">Tom Wopat</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						July 5, 2011<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						14</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-jazz-vocal-jazz/id1175?uo=1&v0=9989">Vocal Jazz</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2011 Tom Wopat, Inc.</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-jazz-vocal-jazz/id1175?uo=1&amp;v0=9989">Vocal Jazz</category>
+    <itms:artist>Tom Wopat</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/tom-wopat/1098520?uo=1&amp;v0=9989</itms:artistLink>
+    <itms:album>Consider It Swung</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/consider-it-swung/1144283443?uo=1&amp;v0=9989</itms:albumLink>
+    <itms:albumPrice>$9.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">https://is4-ssl.mzstatic.com/image/thumb/Music41/v4/e2/1d/f5/e21df5f5-00a3-2a95-7440-7b9aedb9c6b9/191018070014.jpg/53x53bb-85.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">https://is1-ssl.mzstatic.com/image/thumb/Music41/v4/e2/1d/f5/e21df5f5-00a3-2a95-7440-7b9aedb9c6b9/191018070014.jpg/60x60bb-85.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">https://is3-ssl.mzstatic.com/image/thumb/Music41/v4/e2/1d/f5/e21df5f5-00a3-2a95-7440-7b9aedb9c6b9/191018070014.jpg/100x100bb-85.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2011 Tom Wopat, Inc.</itms:rights>
+    
+        <itms:releasedate>July 5, 2011</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>I&#39;ve Got Your Number - Tom Wopat</title>
+    <link>https://itunes.apple.com/album/ive-got-your-number/1144277797?uo=1&amp;v0=9989</link>
+    <description>I&#39;ve Got Your Number by Tom Wopat</description>
+    <pubDate>Wed, 05 Sep 2018 12:46:08 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/ive-got-your-number/1144277797?uo=1&v0=9989"><img border="0" src="https://is5-ssl.mzstatic.com/image/thumb/Music62/v4/99/02/b1/9902b197-e17b-2650-ef9a-dd8cc400718b/191018070021.jpg/100x100bb-85.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://r.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/ive-got-your-number/1144277797?uo=1&v0=9989">I've Got Your Number</a></B><br>
+						<a href="https://itunes.apple.com/artist/tom-wopat/1098520?uo=1&v0=9989">Tom Wopat</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						February 12, 2013<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						14</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-jazz/id11?uo=1&v0=9989">Jazz</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2013 Tom Wopat, Inc.</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-jazz/id11?uo=1&amp;v0=9989">Jazz</category>
+    <itms:artist>Tom Wopat</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/tom-wopat/1098520?uo=1&amp;v0=9989</itms:artistLink>
+    <itms:album>I&#39;ve Got Your Number</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/ive-got-your-number/1144277797?uo=1&amp;v0=9989</itms:albumLink>
+    <itms:albumPrice>$9.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">https://is2-ssl.mzstatic.com/image/thumb/Music62/v4/99/02/b1/9902b197-e17b-2650-ef9a-dd8cc400718b/191018070021.jpg/53x53bb-85.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">https://is4-ssl.mzstatic.com/image/thumb/Music62/v4/99/02/b1/9902b197-e17b-2650-ef9a-dd8cc400718b/191018070021.jpg/60x60bb-85.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">https://is5-ssl.mzstatic.com/image/thumb/Music62/v4/99/02/b1/9902b197-e17b-2650-ef9a-dd8cc400718b/191018070021.jpg/100x100bb-85.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2013 Tom Wopat, Inc.</itms:rights>
+    
+        <itms:releasedate>February 12, 2013</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Folk-Country - Waylon Jennings</title>
+    <link>https://itunes.apple.com/album/folk-country/1144191767?uo=1&amp;v0=9989</link>
+    <description>Folk-Country by Waylon Jennings</description>
+    <pubDate>Wed, 05 Sep 2018 12:46:08 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/folk-country/1144191767?uo=1&v0=9989"><img border="0" src="https://is1-ssl.mzstatic.com/image/thumb/Music42/v4/89/65/a9/8965a949-50ba-80d5-dbff-443e77650e55/886445887631.jpg/100x100bb-85.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://r.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/folk-country/1144191767?uo=1&v0=9989">Folk-Country</a></B><br>
+						<a href="https://itunes.apple.com/artist/waylon-jennings/70127?uo=1&v0=9989">Waylon Jennings</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						March 31, 1966<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						12</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-country/id6?uo=1&v0=9989">Country</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ Originally released 1966. All rights reserved by Sony Music Entertainment.</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-country/id6?uo=1&amp;v0=9989">Country</category>
+    <itms:artist>Waylon Jennings</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/waylon-jennings/70127?uo=1&amp;v0=9989</itms:artistLink>
+    <itms:album>Folk-Country</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/folk-country/1144191767?uo=1&amp;v0=9989</itms:albumLink>
+    <itms:albumPrice>$9.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">https://is4-ssl.mzstatic.com/image/thumb/Music42/v4/89/65/a9/8965a949-50ba-80d5-dbff-443e77650e55/886445887631.jpg/53x53bb-85.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">https://is1-ssl.mzstatic.com/image/thumb/Music42/v4/89/65/a9/8965a949-50ba-80d5-dbff-443e77650e55/886445887631.jpg/60x60bb-85.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">https://is1-ssl.mzstatic.com/image/thumb/Music42/v4/89/65/a9/8965a949-50ba-80d5-dbff-443e77650e55/886445887631.jpg/100x100bb-85.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; Originally released 1966. All rights reserved by Sony Music Entertainment.</itms:rights>
+    
+        <itms:releasedate>March 31, 1966</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Men of the World: The Early Years - Fleetwood Mac</title>
+    <link>https://itunes.apple.com/album/men-of-the-world-the-early-years/1143710672?uo=1&amp;v0=9989</link>
+    <description>Men of the World: The Early Years by Fleetwood Mac</description>
+    <pubDate>Wed, 05 Sep 2018 12:46:08 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/men-of-the-world-the-early-years/1143710672?uo=1&v0=9989"><img border="0" src="https://is5-ssl.mzstatic.com/image/thumb/Music62/v4/84/f2/de/84f2de56-47e9-2799-3512-89d009090bed/602527927442.jpg/100x100bb-85.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://r.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/men-of-the-world-the-early-years/1143710672?uo=1&v0=9989">Men of the World: The Early Years</a></B><br>
+						<a href="https://itunes.apple.com/artist/fleetwood-mac/158038?uo=1&v0=9989">Fleetwood Mac</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						November 8, 2005<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						35</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-rock/id21?uo=1&v0=9989">Rock</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2005 Sanctuary Records Group Ltd., a BMG Company</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-rock/id21?uo=1&amp;v0=9989">Rock</category>
+    <itms:artist>Fleetwood Mac</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/fleetwood-mac/158038?uo=1&amp;v0=9989</itms:artistLink>
+    <itms:album>Men of the World: The Early Years</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/men-of-the-world-the-early-years/1143710672?uo=1&amp;v0=9989</itms:albumLink>
+    <itms:albumPrice>$9.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">https://is5-ssl.mzstatic.com/image/thumb/Music62/v4/84/f2/de/84f2de56-47e9-2799-3512-89d009090bed/602527927442.jpg/53x53bb-85.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">https://is5-ssl.mzstatic.com/image/thumb/Music62/v4/84/f2/de/84f2de56-47e9-2799-3512-89d009090bed/602527927442.jpg/60x60bb-85.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">https://is5-ssl.mzstatic.com/image/thumb/Music62/v4/84/f2/de/84f2de56-47e9-2799-3512-89d009090bed/602527927442.jpg/100x100bb-85.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2005 Sanctuary Records Group Ltd., a BMG Company</itms:rights>
+    
+        <itms:releasedate>November 8, 2005</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Com Lag: 2+2=5 - EP - Radiohead</title>
+    <link>https://itunes.apple.com/album/com-lag-2-2-5-ep/1143391524?uo=1&amp;v0=9989</link>
+    <description>Com Lag: 2+2=5 - EP by Radiohead</description>
+    <pubDate>Wed, 05 Sep 2018 12:46:08 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/com-lag-2-2-5-ep/1143391524?uo=1&v0=9989"><img border="0" src="https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/a4/27/47/a427477f-82ae-23f8-d164-18daff59eb67/cover.jpg/100x100bb-85.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://r.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/com-lag-2-2-5-ep/1143391524?uo=1&v0=9989">Com Lag: 2+2=5 - EP</a></B><br>
+						<a href="https://itunes.apple.com/artist/radiohead/657515?uo=1&v0=9989">Radiohead</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						March 24, 2004<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						10</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-alternative/id20?uo=1&v0=9989">Alternative</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2004 XL Recordings</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-alternative/id20?uo=1&amp;v0=9989">Alternative</category>
+    <itms:artist>Radiohead</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/radiohead/657515?uo=1&amp;v0=9989</itms:artistLink>
+    <itms:album>Com Lag: 2+2=5 - EP</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/com-lag-2-2-5-ep/1143391524?uo=1&amp;v0=9989</itms:albumLink>
+    <itms:albumPrice>$9.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">https://is2-ssl.mzstatic.com/image/thumb/Music62/v4/a4/27/47/a427477f-82ae-23f8-d164-18daff59eb67/cover.jpg/53x53bb-85.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">https://is2-ssl.mzstatic.com/image/thumb/Music62/v4/a4/27/47/a427477f-82ae-23f8-d164-18daff59eb67/cover.jpg/60x60bb-85.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/a4/27/47/a427477f-82ae-23f8-d164-18daff59eb67/cover.jpg/100x100bb-85.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2004 XL Recordings</itms:rights>
+    
+        <itms:releasedate>March 24, 2004</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Vicious Cycle - Lynyrd Skynyrd</title>
+    <link>https://itunes.apple.com/album/vicious-cycle/1142636322?uo=1&amp;v0=9989</link>
+    <description>Vicious Cycle by Lynyrd Skynyrd</description>
+    <pubDate>Wed, 05 Sep 2018 12:46:08 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/vicious-cycle/1142636322?uo=1&v0=9989"><img border="0" src="https://is2-ssl.mzstatic.com/image/thumb/Music71/v4/46/1f/a2/461fa2f4-4376-5bad-711b-dba57ffbef4d/5414939549076.jpg/100x100bb-85.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://r.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/vicious-cycle/1142636322?uo=1&v0=9989">Vicious Cycle</a></B><br>
+						<a href="https://itunes.apple.com/artist/lynyrd-skynyrd/97262?uo=1&v0=9989">Lynyrd Skynyrd</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						January 1, 2003<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						15</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-rock/id21?uo=1&v0=9989">Rock</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2003 Sanctuary Records Group Ltd., a BMG Company</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-rock/id21?uo=1&amp;v0=9989">Rock</category>
+    <itms:artist>Lynyrd Skynyrd</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/lynyrd-skynyrd/97262?uo=1&amp;v0=9989</itms:artistLink>
+    <itms:album>Vicious Cycle</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/vicious-cycle/1142636322?uo=1&amp;v0=9989</itms:albumLink>
+    <itms:albumPrice>$9.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">https://is5-ssl.mzstatic.com/image/thumb/Music71/v4/46/1f/a2/461fa2f4-4376-5bad-711b-dba57ffbef4d/5414939549076.jpg/53x53bb-85.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">https://is5-ssl.mzstatic.com/image/thumb/Music71/v4/46/1f/a2/461fa2f4-4376-5bad-711b-dba57ffbef4d/5414939549076.jpg/60x60bb-85.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">https://is2-ssl.mzstatic.com/image/thumb/Music71/v4/46/1f/a2/461fa2f4-4376-5bad-711b-dba57ffbef4d/5414939549076.jpg/100x100bb-85.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2003 Sanctuary Records Group Ltd., a BMG Company</itms:rights>
+    
+        <itms:releasedate>January 1, 2003</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Christmas Time Again - Lynyrd Skynyrd</title>
+    <link>https://itunes.apple.com/album/christmas-time-again/1142632335?uo=1&amp;v0=9989</link>
+    <description>Christmas Time Again by Lynyrd Skynyrd</description>
+    <pubDate>Wed, 05 Sep 2018 12:46:08 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/christmas-time-again/1142632335?uo=1&v0=9989"><img border="0" src="https://is5-ssl.mzstatic.com/image/thumb/Music71/v4/39/d9/ab/39d9ab47-6cf3-9de9-9075-f78e7e575575/602527079424.jpg/100x100bb-85.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://r.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/christmas-time-again/1142632335?uo=1&v0=9989">Christmas Time Again</a></B><br>
+						<a href="https://itunes.apple.com/artist/lynyrd-skynyrd/97262?uo=1&v0=9989">Lynyrd Skynyrd</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						September 12, 2000<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						11</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-holiday/id8?uo=1&v0=9989">Holiday</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2000 Sanctuary Records Group Ltd., a BMG Company</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-holiday/id8?uo=1&amp;v0=9989">Holiday</category>
+    <itms:artist>Lynyrd Skynyrd</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/lynyrd-skynyrd/97262?uo=1&amp;v0=9989</itms:artistLink>
+    <itms:album>Christmas Time Again</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/christmas-time-again/1142632335?uo=1&amp;v0=9989</itms:albumLink>
+    <itms:albumPrice>$9.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">https://is4-ssl.mzstatic.com/image/thumb/Music71/v4/39/d9/ab/39d9ab47-6cf3-9de9-9075-f78e7e575575/602527079424.jpg/53x53bb-85.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/39/d9/ab/39d9ab47-6cf3-9de9-9075-f78e7e575575/602527079424.jpg/60x60bb-85.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">https://is5-ssl.mzstatic.com/image/thumb/Music71/v4/39/d9/ab/39d9ab47-6cf3-9de9-9075-f78e7e575575/602527079424.jpg/100x100bb-85.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2000 Sanctuary Records Group Ltd., a BMG Company</itms:rights>
+    
+        <itms:releasedate>September 12, 2000</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Arch Allies - Live At Riverport - Styx &amp; REO Speedwagon</title>
+    <link>https://itunes.apple.com/album/arch-allies-live-at-riverport/1142297429?uo=1&amp;v0=9989</link>
+    <description>Arch Allies - Live At Riverport by Styx &amp; REO Speedwagon</description>
+    <pubDate>Wed, 05 Sep 2018 12:46:08 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/arch-allies-live-at-riverport/1142297429?uo=1&v0=9989"><img border="0" src="https://is1-ssl.mzstatic.com/image/thumb/Music22/v4/67/db/db/67dbdb3e-1309-a9d3-ba28-4a31e178c1e8/602527099705.jpg/100x100bb-85.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://r.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/arch-allies-live-at-riverport/1142297429?uo=1&v0=9989">Arch Allies - Live At Riverport</a></B><br>
+						<a href="https://itunes.apple.com/artist/styx/132659?uo=1&v0=9989">Styx &amp; REO Speedwagon</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						September 26, 2000<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						21</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-rock/id21?uo=1&v0=9989">Rock</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$19.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2000 Sanctuary Records Group Ltd., a BMG Company</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-rock/id21?uo=1&amp;v0=9989">Rock</category>
+    <itms:artist>Styx &amp; REO Speedwagon</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/styx/132659?uo=1&amp;v0=9989</itms:artistLink>
+    <itms:album>Arch Allies - Live At Riverport</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/arch-allies-live-at-riverport/1142297429?uo=1&amp;v0=9989</itms:albumLink>
+    <itms:albumPrice>$19.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">https://is5-ssl.mzstatic.com/image/thumb/Music22/v4/67/db/db/67dbdb3e-1309-a9d3-ba28-4a31e178c1e8/602527099705.jpg/53x53bb-85.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">https://is5-ssl.mzstatic.com/image/thumb/Music22/v4/67/db/db/67dbdb3e-1309-a9d3-ba28-4a31e178c1e8/602527099705.jpg/60x60bb-85.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">https://is1-ssl.mzstatic.com/image/thumb/Music22/v4/67/db/db/67dbdb3e-1309-a9d3-ba28-4a31e178c1e8/602527099705.jpg/100x100bb-85.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2000 Sanctuary Records Group Ltd., a BMG Company</itms:rights>
+    
+        <itms:releasedate>September 26, 2000</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Early Years - Madonna &amp; Otto von Wernherr</title>
+    <link>https://itunes.apple.com/album/early-years/1142264019?uo=1&amp;v0=9989</link>
+    <description>Early Years by Madonna &amp; Otto von Wernherr</description>
+    <pubDate>Wed, 05 Sep 2018 12:46:08 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/early-years/1142264019?uo=1&v0=9989"><img border="0" src="https://is3-ssl.mzstatic.com/image/thumb/Music62/v4/0c/ee/4f/0cee4fe7-3bcf-2983-1a6c-f3ffe76f8e65/021823608624.jpg/100x100bb-85.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://r.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/early-years/1142264019?uo=1&v0=9989">Early Years</a></B><br>
+						<a href="https://itunes.apple.com/artist/madonna/20044?uo=1&v0=9989">Madonna &amp; Otto von Wernherr</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						January 1, 1989<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						17</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-pop/id14?uo=1&v0=9989">Pop</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$15.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2001 Mia Mind Music under exclusive licence to Sanctuary Records Group Ltd., a BMG Company</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-pop/id14?uo=1&amp;v0=9989">Pop</category>
+    <itms:artist>Madonna &amp; Otto von Wernherr</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/madonna/20044?uo=1&amp;v0=9989</itms:artistLink>
+    <itms:album>Early Years</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/early-years/1142264019?uo=1&amp;v0=9989</itms:albumLink>
+    <itms:albumPrice>$15.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">https://is5-ssl.mzstatic.com/image/thumb/Music62/v4/0c/ee/4f/0cee4fe7-3bcf-2983-1a6c-f3ffe76f8e65/021823608624.jpg/53x53bb-85.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">https://is5-ssl.mzstatic.com/image/thumb/Music62/v4/0c/ee/4f/0cee4fe7-3bcf-2983-1a6c-f3ffe76f8e65/021823608624.jpg/60x60bb-85.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">https://is3-ssl.mzstatic.com/image/thumb/Music62/v4/0c/ee/4f/0cee4fe7-3bcf-2983-1a6c-f3ffe76f8e65/021823608624.jpg/100x100bb-85.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2001 Mia Mind Music under exclusive licence to Sanctuary Records Group Ltd., a BMG Company</itms:rights>
+    
+        <itms:releasedate>January 1, 1989</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Lynyrd Skynyrd - Lyve (Live) - Lynyrd Skynyrd</title>
+    <link>https://itunes.apple.com/album/lynyrd-skynyrd-lyve-live/1142253117?uo=1&amp;v0=9989</link>
+    <description>Lynyrd Skynyrd - Lyve (Live) by Lynyrd Skynyrd</description>
+    <pubDate>Wed, 05 Sep 2018 12:46:08 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/lynyrd-skynyrd-lyve-live/1142253117?uo=1&v0=9989"><img border="0" src="https://is5-ssl.mzstatic.com/image/thumb/Music71/v4/cf/f4/07/cff40777-fd22-31a6-9bab-0995dc3b9ffe/5414939484971.jpg/100x100bb-85.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://r.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/lynyrd-skynyrd-lyve-live/1142253117?uo=1&v0=9989">Lynyrd Skynyrd - Lyve (Live)</a></B><br>
+						<a href="https://itunes.apple.com/artist/lynyrd-skynyrd/97262?uo=1&v0=9989">Lynyrd Skynyrd</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						June 22, 2004<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						19</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-rock/id21?uo=1&v0=9989">Rock</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$17.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2004 Sanctuary Records Group Ltd., a BMG Company</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-rock/id21?uo=1&amp;v0=9989">Rock</category>
+    <itms:artist>Lynyrd Skynyrd</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/lynyrd-skynyrd/97262?uo=1&amp;v0=9989</itms:artistLink>
+    <itms:album>Lynyrd Skynyrd - Lyve (Live)</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/lynyrd-skynyrd-lyve-live/1142253117?uo=1&amp;v0=9989</itms:albumLink>
+    <itms:albumPrice>$17.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">https://is5-ssl.mzstatic.com/image/thumb/Music71/v4/cf/f4/07/cff40777-fd22-31a6-9bab-0995dc3b9ffe/5414939484971.jpg/53x53bb-85.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">https://is2-ssl.mzstatic.com/image/thumb/Music71/v4/cf/f4/07/cff40777-fd22-31a6-9bab-0995dc3b9ffe/5414939484971.jpg/60x60bb-85.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">https://is5-ssl.mzstatic.com/image/thumb/Music71/v4/cf/f4/07/cff40777-fd22-31a6-9bab-0995dc3b9ffe/5414939484971.jpg/100x100bb-85.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2004 Sanctuary Records Group Ltd., a BMG Company</itms:rights>
+    
+        <itms:releasedate>June 22, 2004</itms:releasedate>
+    
+
+</item>
+
+	</channel>
+</rss>
